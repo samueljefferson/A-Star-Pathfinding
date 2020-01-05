@@ -1,5 +1,9 @@
 # Repeated-Forward-A*
 
+![alt text](screenshot.png "A* screenshot")
+
+Repated forward A* used on a small maze.  Going from the upper left to the lower right.
+
 presentation.py is the file used to see the forward A*, backward A*, and
 adaptive A* paths
 
